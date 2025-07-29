@@ -1,7 +1,1 @@
-## Hi there 👋i am undergraduate students from Everest engineering college . 
-
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on semester projects
+## Hi there, i am prazol, a bachelor's student in BEIT . i am passionate about robotics and coding, and i enjoy exploring how technology can solve real-world problems
